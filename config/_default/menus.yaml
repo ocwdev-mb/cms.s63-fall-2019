@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 5614d006-8ed6-b6eb-7f26-5fcfcbadd7b5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8891e61a-9697-a0c9-b9d4-7a11f7e92ed9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 34a8c90c-2927-46ee-152a-60abd12d56b6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 455a63af-847a-73c4-481d-22ec0a886e33
+  name: Seminar Videos
+  pageRef: /video_galleries/seminar-videos
+  weight: 40
+- identifier: 45aa3441-f071-1b8b-955f-2ef5598afbac
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
